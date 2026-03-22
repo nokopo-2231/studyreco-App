@@ -3,7 +3,7 @@
 学習の「記録」ではなく、  
 **学習行動を継続させる体験設計**を目的とした個人開発Webアプリ。
 ⬇️
-記録すること自体が作業（コスト）になり、継続を阻害するという課題を、**『計測と記録の完全同期』と『AIフィードバック』**によって解決しました。
+記録すること自体が作業（コスト）になり、継続を阻害するという課題を、『計測と記録の完全同期』と『AIフィードバック』によって解決しました。
 
 ✏️
 「行動と報酬の距離を最小化する設計」をテーマに改善を重ねています。
@@ -193,7 +193,7 @@ duration を整数の秒で統一することで、
 
 <img width="300" height="auto" alt="1" src="https://github.com/user-attachments/assets/90e54ce9-8480-4f00-8be7-ac4bc364ec87" />
 <img width="300" height="auto" alt="2" src="https://github.com/user-attachments/assets/cded0826-9179-4acd-bc19-bae4d212a6d2" />
-<img width="300" height="2100" alt="iphone-x-mockup" src="https://github.com/user-attachments/assets/ed7b7a7f-b960-421d-8975-72e8e42ec4ec" />
+<img width="1000" height="2100" alt="iphone-x-mockup" src="https://github.com/user-attachments/assets/ed7b7a7f-b960-421d-8975-72e8e42ec4ec" />
 
 ---
 
