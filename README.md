@@ -190,8 +190,8 @@ duration を整数の秒で統一することで、
 ---
 
 ## 📸 スクリーンショット
-<img width="300" height="auto" alt="1" src="https://github.com/user-attachments/assets/21f71783-47a5-4d68-a2f2-816420301a3d" />
-<img width="300" height="auto" alt="2" src="https://github.com/user-attachments/assets/59993f17-0832-40a4-b39e-e91a45f61e13" />
+<img width="300" height="805" alt="１" src="https://github.com/user-attachments/assets/55b0cf78-75bc-4b62-9413-75c50eb9847d" />
+<img width="310" height="768" alt="２" src="https://github.com/user-attachments/assets/7b63bb43-5482-4f45-bdfc-4fef6a451133" />
 
 ---
 
