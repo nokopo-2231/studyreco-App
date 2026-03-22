@@ -193,6 +193,7 @@ duration を整数の秒で統一することで、
 
 <img width="300" height="auto" alt="1" src="https://github.com/user-attachments/assets/90e54ce9-8480-4f00-8be7-ac4bc364ec87" />
 <img width="300" height="auto" alt="2" src="https://github.com/user-attachments/assets/cded0826-9179-4acd-bc19-bae4d212a6d2" />
+<img width="300" height="2100" alt="iphone-x-mockup" src="https://github.com/user-attachments/assets/ed7b7a7f-b960-421d-8975-72e8e42ec4ec" />
 
 ---
 
