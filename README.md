@@ -193,8 +193,9 @@ duration を整数の秒で統一することで、
 <img width="300" height="auto" alt="1" src="https://github.com/user-attachments/assets/21f71783-47a5-4d68-a2f2-816420301a3d" />
 <img width="300" height="auto" alt="2" src="https://github.com/user-attachments/assets/59993f17-0832-40a4-b39e-e91a45f61e13" />
 
-<img width="577" height="433" alt="iphone-x-mockup-removebg-preview" src="https://github.com/user-attachments/assets/36c3b95a-e05e-4036-9169-f32d03037e6d" />
-<img width="577" height="433" alt="iphone-x-mockup__1_-removebg-preview" src="https://github.com/user-attachments/assets/8ce3b8c5-6b74-4d08-9efd-7533d9ee4693" />
+| タイマー画面 | 記録一覧画面 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/36c3b95a-e05e-4036-9169-f32d03037e6d" width="300" alt="タイマー画面（モックアップ）" /> | <img src="https://github.com/user-attachments/assets/8ce3b8c5-6b74-4d08-9efd-7533d9ee4693" width="300" alt="記録一覧画面（モックアップ）" /> |
 
 ---
 
