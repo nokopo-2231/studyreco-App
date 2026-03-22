@@ -193,18 +193,6 @@ duration を整数の秒で統一することで、
 <img width="300" height="auto" alt="1" src="https://github.com/user-attachments/assets/21f71783-47a5-4d68-a2f2-816420301a3d" />
 <img width="300" height="auto" alt="2" src="https://github.com/user-attachments/assets/59993f17-0832-40a4-b39e-e91a45f61e13" />
 
-<div style="text-align: center; overflow: hidden;">
-  
-  <img src="https://github.com/user-attachments/assets/36c3b95a-e05e-4036-9169-f32d03037e6d" 
-       alt="タイマー画面" 
-       style="width: 50%; max-width: 600px; height: auto; margin-right: -5%; border: none;" />
-
-  <img src="https://github.com/user-attachments/assets/8ce3b8c5-6b74-4d08-9efd-7533d9ee4693" 
-       alt="記録一覧画面" 
-       style="width: 50%; max-width: 600px; height: auto; margin-left: -5%; border: none;" />
-
-</div>
-
 ---
 
 ## 🧠 このプロジェクトで意識したこと
