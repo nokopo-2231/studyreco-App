@@ -191,7 +191,7 @@ duration を整数の秒で統一することで、
 
 ## 📸 スクリーンショット
 <img width="300" height="805" alt="１" src="https://github.com/user-attachments/assets/55b0cf78-75bc-4b62-9413-75c50eb9847d" />
-<img width="310" height="768" alt="２" src="https://github.com/user-attachments/assets/7b63bb43-5482-4f45-bdfc-4fef6a451133" />
+<img width="310" height="768" alt="２" src="https://github.com/user-attachments/assets/9c750f38-a3ad-461e-83d1-f56a0204a748" />
 
 ---
 
