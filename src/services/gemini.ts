@@ -9,7 +9,7 @@ export const fetchAiComment = async (subject: string, minutes: number, records: 
     .join("\n");
 
   const prompt = `あなたは学習アドバイザーロボットです。
-これまでの学習履歴と今回のデータを分析して、ユーザーに1つだけアドバイスをしてください。
+これまでの学習履歴と今回のデータを分析して、ユーザーに1つだけアドバイスをしてください。毎日同じようなアドバイスはしないでください。
 
 【今回の学習】
 「${subject}」を${minutes}分間
