@@ -150,8 +150,8 @@
 - ApexCharts: 学習データの動的な可視化
 
 ### バックエンド / インフラ
-- Firebase (Auth / Firestore / Hosting): 認証、DB、ホスティングの一元管理
-- Gemini 2.5 Flash API: AI学習アドバイスの生成
+Firebase (Auth / Firestore / Hosting / Analytics): 認証、DB、ホスティング、ユーザー行動分析の一元管理
+- Gemini 2.5 Flash API: 低レイテンシなAI学習アドバイスの生成
 - Screen Wake Lock API: 計測中の画面スリープ防止
 
 ### 可視化 / 外部API
